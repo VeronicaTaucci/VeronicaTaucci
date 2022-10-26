@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials ⚡:
-[![LinkedIn](https://www.linkedin.com/in/veronica-taucci/)](https://www.linkedin.com/in/veronica-taucci/) 
+[![LinkedIn](https://www.linkedin.com/in/veronica-taucci/)](https://www.linkedin.com/in/veronica-taucci/)]
 <!-- [![Portfolio](https://veronicataucciportfolio.netlify.app/)](https://veronicataucciportfolio.netlify.app/)  -->
 
 # 💻 Tech Stack:
@@ -16,10 +16,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VeronicaTaucci&icon=1&color=8)](https://visitcount.itsvg.in)
-are some ideas to get you started:
+
 
 - 🔭 I’m currently working on a cool APP.
 - 🌱 I’m currently learning TypeScript.
 - 👯 I’m looking to collaborate.
-- 📫 How to reach me: [![LinkedIn](https://www.linkedin.com/in/veronica-taucci/)](https://www.linkedin.com/in/veronica-taucci/) 
+- 📫 How to reach me: [![LinkedIn](https://www.linkedin.com/in/veronica-taucci/)](https://www.linkedin.com/in/veronica-taucci/) ]
 -->

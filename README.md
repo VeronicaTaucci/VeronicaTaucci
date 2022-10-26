@@ -3,7 +3,7 @@
 
 
 
-## 🌐 Socials ⚡:
+## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronica-taucci/)
 <!-- [![Portfolio](https://veronicataucciportfolio.netlify.app/)](https://veronicataucciportfolio.netlify.app/)  -->
 
@@ -21,4 +21,4 @@
 - 🔭 Currently working on a cool APP.
 - 🌱 I’m currently learning TypeScript.
 - 👯 Looking to collaborate.
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronica-taucci/) ]
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronica-taucci/) 

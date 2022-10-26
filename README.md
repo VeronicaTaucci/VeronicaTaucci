@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials ⚡:
-[![LinkedIn](https://www.linkedin.com/in/veronica-taucci/)](https://www.linkedin.com/in/veronica-taucci/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronica-taucci/)
 <!-- [![Portfolio](https://veronicataucciportfolio.netlify.app/)](https://veronicataucciportfolio.netlify.app/)  -->
 
 # 💻 Tech Stack:
@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VeronicaTaucci&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VeronicaTaucci&icon=1&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=VeronicaTaucci&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
 
 
 - 🔭 Currently working on a cool APP.

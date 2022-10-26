@@ -1,5 +1,5 @@
 ### Hi there 👋
-# ✨ I am Veronica T, a Full Stack Software Developer with a passion for technology. ✨
+# ✨ I am Veronica, a Full Stack Software Developer with a passion for technology. ✨
 
 
 

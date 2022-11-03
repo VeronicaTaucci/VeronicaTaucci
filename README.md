@@ -19,6 +19,6 @@
 
 
 - 🔭 Currently working on a cool APP.
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - 👯 Looking to collaborate.
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronica-taucci/) 
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronica-taucci/) OR ![Portfolio](https://veronicataucci.com/)
